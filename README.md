@@ -36,8 +36,7 @@ Switch to drawing mode from design mode
 ![image](https://user-images.githubusercontent.com/113594316/199408705-ed302b2a-90c3-41c0-9cc4-791a93366e2a.png)
 
 ## OUTPUT
-![Screenshot 2023-12-20 104537](https://github.com/NAVEEN-2006/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/152067648/a5e646da-b8d1-4274-a610-ee430cd84832)
-
+![image](https://github.com/NAVEEN-2006/EX-No.5.1.-DESIGN-THE-3D-MODEL-AS-PROVIDED-AND-CONVERT-TO-ORTHOGRAPHIC-VIEW/assets/152067648/ddcdca5a-9316-4305-bd83-9c292db36e25)
 
 ## RESULT:
 Thus, the given 3D model is converted into orthographic view.
